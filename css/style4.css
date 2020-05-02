@@ -5,7 +5,7 @@
 }
 
 .container {
-  width: 1170px;
+  width: 1110px;
   margin: 0 auto;
   padding: 0 30px;
 }
@@ -27,7 +27,7 @@
 }
 .container header nav {
   float: right;
-  padding-top: 38px;
+  padding-top: 55px;
 }
 .container header nav ul {
   list-style: none;
@@ -40,7 +40,7 @@
   margin-right: 50px;
 }
 .container header nav ul li a {
-  font: 14px "OpenSans";
+  font: 14px "Opensans";
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
@@ -109,9 +109,8 @@
   float: right;
   width: 40px;
   background-color: rgba(255, 255, 255, 0.44);
-  
 }
-.containersection.products figure:nth-of-type(4n + 4) {
+.container section.products figure:nth-of-type(4n + 4) {
   margin-right: 0;
 }
 .container section.products figure:hover figcaption {
@@ -132,7 +131,7 @@
   cursor: pointer;
 }
 .container section.news figure figcaption h4 {
-  font: 18px "OpenSans";
+  font: 18px "Roboto";
   color: #555252;
   padding: 15px 0;
 }
@@ -154,7 +153,7 @@
   display: block;
   width: 160px;
   height: 50px;
-  font: 16px "Open Sans";
+  font: 16px "OpenSans";
   color: white;
   text-transform: capitalize;
   margin-bottom: 85px;
@@ -166,10 +165,9 @@
   margin-right: 0;
 }
 .price {
-  margin: 0px
+  margin: 0px;
 }
 
 .description {
   margin: 0px;
-
 }
