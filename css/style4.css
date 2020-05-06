@@ -14,7 +14,8 @@
 }
 .container header .logo {
   float: left;
-  font-family: "Roboto";
+  font-family: "Roboto"sans-serif;
+  
   font-size: 30px;
   color: #000000;
   text-transform: uppercase;
@@ -38,9 +39,10 @@
 .container header nav ul li {
   float: left;
   margin-right: 50px;
+  font: 14px "Robota";
 }
 .container header nav ul li a {
-  font: 14px "Opensans";
+  font: 14px "Robota";
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
